@@ -6,6 +6,6 @@ Checker FB
 
 git clone https://github.com/sgghyu/mm88x
 
-cd Checker
+cd mm88x
 
 python run.py
